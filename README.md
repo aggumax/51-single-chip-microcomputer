@@ -3,7 +3,7 @@
 # 进程...
 目前刚刚画好pcb板，等待做出来后测试可行性就开始软件的开发工作  
 这是pcb原理图  
-！【image】https://github.com/aggumax/51-single-chip-microcomputer/blob/main/%E5%9B%BE%E7%89%87/SCH_51%E7%AC%AC%E4%BA%8C%E5%BD%A2%E6%80%81_1-P1_2023-07-12.png
+!【image】https://github.com/aggumax/51-single-chip-microcomputer/blob/main/%E5%9B%BE%E7%89%87/SCH_51%E7%AC%AC%E4%BA%8C%E5%BD%A2%E6%80%81_1-P1_2023-07-12.png
 
 
 
